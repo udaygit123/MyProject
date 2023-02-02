@@ -26,7 +26,7 @@ public class Calculator {
 		// TODO Auto-generated method stub
 			
 		Scanner sc = new Scanner(System.in);
-				System.out.println("Ente two numbers");
+				System.out.println("Enterr two numbers");
 				int n1=sc.nextInt();
 				int n2=sc.nextInt();
 				System.out.println("Entered two numbers:"+n1+" "+n2);
